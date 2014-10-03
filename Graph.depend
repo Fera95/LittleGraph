@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1412295289 source:/home/ismael/Escritorio/Graph/Grafo.cpp
+	"Grafo.h"
+	<fstream>
+
+1403586024 /home/ismael/Escritorio/Graph/Grafo.h
+	<vector>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<iostream>
+	<sstream>
+	<limits>
+
+1412296120 source:/home/ismael/Escritorio/Graph/main.cpp
+	"Grafo.h"
+	<iostream>
+
